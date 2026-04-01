@@ -6,18 +6,18 @@ John Yun Moe & Zavier Shaikh, NYUAD
 
 # Replication of  A Large-Scale Study of Test Coverage Evolution
 
-Requirements 
+## Requirements 
 M. Hilton, J. Bell, and D. Marinov. 2018. A large-scale study of test coverage evolution. In Proceedings of the 33rd
 ACM/IEEE International Conference on Automated Software Engineering (ASE '18). Association for Computing
 Machinery, New York, NY, USA. https://doi.org/10.1145/3238147.3238183
 Artifact: http://www.code-coverage.org/data/
-Scope of Replication:
-Explore the data provided in the artifact. Explain what is provided and what do the columns for a given data point
+### Scope of Replication:
+1.Explore the data provided in the artifact. Explain what is provided and what do the columns for a given data point
 represent. If multiple data files are provided, explain how they relate to each other.
-Reproduce RQ1–RQ3 using the scripts and data provided. Compare your results with those reported in the paper.
+2.Reproduce RQ1–RQ3 using the scripts and data provided. Compare your results with those reported in the paper.
 For this task, you do not have to re-collect the coverage and code change data and can use the provided scripts
 and data.
-Pick five projects from the data set and check what is the latest date of code changes and coverage available in the
+3.Pick five projects from the data set and check what is the latest date of code changes and coverage available in the
 data. Use the provided data collection scripts to collect patch coverage information for new revisions to date. Re-run
 RQ1 on the complete data available to date (i.e., the previous data points for the projects + the new data you
 collected, such that you have the complete evolution of the project to date). Compare the key statistics in Table 1 on
