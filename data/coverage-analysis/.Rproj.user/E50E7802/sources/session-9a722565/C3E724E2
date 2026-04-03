@@ -1,0 +1,24 @@
+{
+    "id": "C3E724E2",
+    "path": "D:/Replication 3/data/coverage-analysis/corrolatePatchCovWithChange.R",
+    "project_path": "corrolatePatchCovWithChange.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1775092365069.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774790751,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774790751,
+    "read_only": false,
+    "read_only_alternatives": []
+}
